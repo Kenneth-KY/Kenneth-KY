@@ -5,8 +5,8 @@
 
 ---
 
-[![Email](https://img.shields.io/badge/EMAIL-KYKENNETH202%40GMAIL.COM-424242?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kykenneth202@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B226_06762485-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22606762485)
+[![Email](https://img.shields.io/badge/EMAIL-KYKENNETH202%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kykenneth202@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B226__06762485-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22606762485)
 
 </div>
 
@@ -15,12 +15,16 @@
 ### 🎯 À propos de moi
 
 ```javascript
-const kenneth = {
+const Kenneth = {
   name: "KY Kenneth Jacob Sissima",
   age: 19,
-  location: "Ouagadougou, Burkina Faso",
-  role: "Student & Full-Stack Developer",
-  education: "Licence Télécommunications et Informatique — ESMT",
-  specialty: "Double compétence en gestion d'infrastructures et en développement",
-  currentlyBuilding: "Projets web innovants et maintenance d'architectures réseaux"
+  location: ["Ouagadougou, Burkina Faso 🇧🇫"],
+  role: ["Full-Stack Developer", "Network & Telecom Student"],
+  education: "Licence Télécoms & Informatique — ESMT",
+  
+  stack: {
+    frontend: ["HTML5", "CSS3", "JavaScript"],
+    backend: ["PHP", "MySQL", "PostgreSQL"],
+    tools: ["VS Code", "phpMyAdmin"]
+  }
 };
